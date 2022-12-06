@@ -2,16 +2,11 @@
 
 #### By Kirsten Opstad & Brian Noh
 
-#### A template for writing a README.md
+#### A console application that checks if word is a palindrome
 
 ## Technologies Used
 
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-* webpack
-* Node.js
+* C#
 
 ## Description
 
@@ -36,16 +31,17 @@ Bonus Points: Make a method that checks a string of words and also an integer. F
 <!-- [Link to operational site](http://www.kirstenopstad.github.com/<REPOSITORY NAME>) -->
 
 ### Goals
-1. Meet MVP
+1. Meet MVP using TDD
 
 ## Setup/Installation Requirements
 
-* Clone this repo to your workspace.
+TBD
+<!-- * Clone this repo to your workspace.
 * Navigate to the top level of the directory.
 * In the root directory of the project, run this command to install all packages listed in the package.json:
 ```
 $ npm install
-```
+``` -->
 <!-- Instructions for Apps that Use APIs -->
 <!-- * To use this app, you will need to create an account and get an API key from [Link to API](https://www.api-link.io).
   * Visit the API site. Follow signup instructions to get your own unique API key.
